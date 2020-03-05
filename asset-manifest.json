@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/task_deploy/static/css/main.3bea1e12.chunk.css",
+    "main.js": "/task_deploy/static/js/main.bb24767d.chunk.js",
+    "main.js.map": "/task_deploy/static/js/main.bb24767d.chunk.js.map",
+    "runtime-main.js": "/task_deploy/static/js/runtime-main.fdb5d5ce.js",
+    "runtime-main.js.map": "/task_deploy/static/js/runtime-main.fdb5d5ce.js.map",
+    "static/css/2.563af9af.chunk.css": "/task_deploy/static/css/2.563af9af.chunk.css",
+    "static/js/2.d94f0eec.chunk.js": "/task_deploy/static/js/2.d94f0eec.chunk.js",
+    "static/js/2.d94f0eec.chunk.js.map": "/task_deploy/static/js/2.d94f0eec.chunk.js.map",
+    "index.html": "/task_deploy/index.html",
+    "precache-manifest.4b4babf8a5e5670a126817e98c8840fa.js": "/task_deploy/precache-manifest.4b4babf8a5e5670a126817e98c8840fa.js",
+    "service-worker.js": "/task_deploy/service-worker.js",
+    "static/css/2.563af9af.chunk.css.map": "/task_deploy/static/css/2.563af9af.chunk.css.map",
+    "static/css/main.3bea1e12.chunk.css.map": "/task_deploy/static/css/main.3bea1e12.chunk.css.map",
+    "static/js/2.d94f0eec.chunk.js.LICENSE.txt": "/task_deploy/static/js/2.d94f0eec.chunk.js.LICENSE.txt",
+    "static/media/hero-banner.jpg": "/task_deploy/static/media/hero-banner.f18dca13.jpg",
+    "static/media/logo.svg": "/task_deploy/static/media/logo.fca2e89e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb5d5ce.js",
+    "static/css/2.563af9af.chunk.css",
+    "static/js/2.d94f0eec.chunk.js",
+    "static/css/main.3bea1e12.chunk.css",
+    "static/js/main.bb24767d.chunk.js"
+  ]
+}
